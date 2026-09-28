@@ -1,0 +1,16 @@
+dataset/
+models/
+dataset_try/
+src/ai/try_preprocess.ipynb
+.venv-train/
+.cache/
+data/
+runs/
+__pycache__/
+.idea/
+output/
+.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
+kaggle.json
